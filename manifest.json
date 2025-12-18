@@ -1,0 +1,16 @@
+{
+  "name": "JX Business Class Service System",
+  "short_name": "JX BCSS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1a26",
+  "theme_color": "#d9a74a",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://play-lh.googleusercontent.com/0-zgC3V9s6PRbOUMktft8IUXMloeCbFoGGKMvjgka83kxbm4Z5_5akXEpLfYcZz4wiX6=w240-h480-rw",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
